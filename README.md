@@ -2,7 +2,6 @@
 =====================================
 
 
-# TensorFlow.js Webcam Detection Project
 
 This project is a simple Flask application that serves a TensorFlow.js webcam detection page. It is designed to demonstrate the use of TensorFlow.js for real-time object detection in the browser.
 
