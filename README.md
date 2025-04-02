@@ -12,7 +12,6 @@ This project is a simple Flask application that serves a TensorFlow.js webcam de
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
-* [License](#license)
 
 ## Getting Started
 
